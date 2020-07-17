@@ -1,4 +1,4 @@
-### Hi there 👋. I am Haritha Ramachandran. :woman_technologist: :rocket:. I am a :mobile: Telecommunication Systems Engineer :smile:.
+### Hi there 👋. I am Haritha Ramachandran. :woman_technologist: :rocket:. I am a Telecommunication Systems Engineer :smile:.
 
 
 - 🌱 I’m currently learning Python :snake:.
